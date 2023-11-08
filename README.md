@@ -1,1 +1,3 @@
-# labs_mathematicalLogic
+# Применение математической логики в системах управления / Application of mathematical logic in control systems
+## Студент ПИН-М-О-23-1 Каракотов Руслан
+Выполнил все лабораторные работы.

@@ -1,0 +1,15 @@
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/bin/Debug/net7.0/Lab2
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/bin/Debug/net7.0/Lab2.deps.json
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/bin/Debug/net7.0/Lab2.runtimeconfig.json
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/bin/Debug/net7.0/Lab2.dll
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/bin/Debug/net7.0/Lab2.pdb
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.csproj.AssemblyReference.cache
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfoInputs.cache
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfo.cs
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.csproj.CoreCompileInputs.cache
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.dll
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/refint/Lab2.dll
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.pdb
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/Lab2.genruntimeconfig.cache
+/home/happy/Desktop/university/Application of mathematical logic in control systems/labs/lab_2/Lab2/obj/Debug/net7.0/ref/Lab2.dll
